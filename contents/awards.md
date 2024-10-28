@@ -1,9 +1,6 @@
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 第十一届蓝桥杯全国软件和信息技术黑龙江省赛区 C/C++程序设计大学 A 组 二等奖 2020
+- 第十四届中国大学生计算机博弈大赛 二等奖 2020
+- 第四届大数据体系巅峰论坛—全国大数据与计算智能挑战赛“领域多事件信息联合抽取”(优胜奖 8/637)
+- 北京信息科技大学 新生奖学金 二等奖 2022
+- 哈尔滨理工大学学业奖学金二等奖学金 2021 2020 2019
+- 哈尔滨理工大学校级 三好学生 2019 2020
