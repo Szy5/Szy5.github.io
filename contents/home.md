@@ -8,7 +8,7 @@ I am currently pursuing a master's degree in Computer Science and Technology at 
 
 #### Education
 
-哈尔滨理工大学 软件工程 学士 2018.09-2022.06  
+哈尔滨理工大学 软件工程 学士 2018.09-2022.06<br>
 北京信息科技大学 计算机科学与技术 硕士 2022.09-2025.06
 
 #### Research Interests
